@@ -2,3 +2,4 @@
 ## Setup & Config
 ## Basic Workflow
 ## Viewing Changes
+more tips
